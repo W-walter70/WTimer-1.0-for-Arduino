@@ -1,1 +1,9 @@
-
+This library allow you to use timer such in Automation. 
+The library uses the millis() function.
+The delay() function is not used.
+Timer TON starts after a time your event is true.
+Timer TOF starts immediately and stops after a time your event is false.
+Square waves are several waves of signal to blink led's or else.
+Install the library in you Arduino IDE.
+Open the examples for the "examples" folder.
+Thanks.
