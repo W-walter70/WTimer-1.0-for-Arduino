@@ -1,0 +1,15 @@
+WTimer	        KEYWORD1
+
+initTimers	KEYWORD2
+
+presetTimer	KEYWORD2
+runTimers       KEYWORD2
+
+getDeltaTime    KEYWORD2
+
+enableClocks    KEYWORD2
+
+disableClocks   KEYWORD2
+
+timer           KEYWORD3
+SquareWave      KEYWORD3
